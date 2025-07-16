@@ -37,7 +37,7 @@ This chatbot is for basic informational purposes only and does not replace profe
 📂 How to Run
 Clone the repository:
 
-git clone https://github.com/yourusername/medical-assistant-chatbot.git
+git clone https://github.com/farzamshahzad46/medical-assistant-chatbot.git
 Install dependencies:
 
 
@@ -46,5 +46,6 @@ Run the application:
 
 python app.py
 
-For more Project  details  Reach me out : https://www.linkedin.com/in/farzam-shahzad-568024283/
+📞 Contact
+For more project details, feel free to reach out to me. : https://www.linkedin.com/in/farzam-shahzad-568024283/
 Email: farzamshahzad27@gmail.com
